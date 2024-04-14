@@ -16,7 +16,7 @@ Things to note:
 
 Basically, just credit me in whatever you make with these and don't make money off whatever it is. I DO NOT ENDORSE WHATEVER GETS MADE WITH THESE FILES.
 
-![CC BY-NC]([https://licensebuttons.net/p/zero/1.0/88x31.png](https://licensebuttons.net/l/by-nc/4.0/88x31.png))
+![CC BY-NC](https://licensebuttons.net/p/zero/1.0/88x31.png](https://licensebuttons.net/l/by-nc/4.0/88x31.png)
 
 If you run into any bugs or issues, [email me](https://wavetro.net/contact). Enjoy.
 
