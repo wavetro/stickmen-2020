@@ -8,8 +8,8 @@
 
 Things to note:
 - Some folders have a README.txt in them that you should probably read
+- - You need to know how to use Blender 3D to use these files, I do not offer instructions or tutorials
 - Be sure to place the audio file in the same folder as the .blend so that the audio plays back in the Blender project properly
-- You need to know how to use Blender 3D to use these files, I do not offer instructions or tutorials
 - The "wavetro" name and logo is still fully-copyrighted by me, as well as the assets that are clearly just other people's YouTube files or large corporate brands/logos used as props
 - Everything else here (especially the non-cavefolder characters and audio tracks) are licensed under the [CC BY-NC 4.0 license](https://creativecommons.org/licenses/by-nc/4.0/)
 - I still own the full copyright and distribution rights to the final renders of these videos and the Stickmen 2020 brand in general
