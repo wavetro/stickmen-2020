@@ -6,6 +6,8 @@
 
 📂 **Hit the big green download button at the top (Code -> Download .ZIP) to download these files, or click "Download" on an individual file to only grab what you need.**
 
+🙏 **UPDATE: MAJOR shoutouts to [uhwot on GitHub](https://github.com/uhwot) for recovering the "2010s childhood" project file!!!** It corrupted on my drive many years ago and I haven't been able to open it in years until @uhwot stepped in. Absolute hero.
+
 Things to note:
 - Some folders have a README.txt in them that you should probably read
 - You need to know how to use Blender 3D to use these files, I do not offer instructions or tutorials (though [this video](https://www.youtube.com/watch?v=oQFHz8gBr0Q) might help)
